@@ -14,23 +14,23 @@ Alternatively, you may clone or download this repository and run a Jupyter noteb
 
 - 📚 Overview [ [source](https://github.com/bpesquet/website/blob/master/content/english/slides/ai/python-data-science/index.md) | [slides](https://www.bpesquet.fr/en/slides/ai/python-data-science/) ]
 - ▶️️ Demos
-  - [Python Cheatsheet](http://localhost:8888/notebooks/demos/tools/Python.ipynb)
-  - [NumPy](http://localhost:8888/notebooks/demos/tools/NumPy.ipynb)
-  - [Pandas](http://localhost:8888/notebooks/demos/tools/Pandas.ipynb)
-  - [Matplotlib and Seaborn](http://localhost:8888/notebooks/demos/tools/Matplotlib.ipynb)
+  - [Python Cheatsheet](http://localhost:8888/notebooks/demos/tools/Python.ipynb){:target="_blank"}
+  - [NumPy](http://localhost:8888/notebooks/demos/tools/NumPy.ipynb){:target="_blank"}
+  - [Pandas](http://localhost:8888/notebooks/demos/tools/Pandas.ipynb){:target="_blank"}
+  - [Matplotlib and Seaborn](http://localhost:8888/notebooks/demos/tools/Matplotlib.ipynb){:target="_blank"}
 - ⛩ Katas
-  - [Tensor Management](http://localhost:8888/notebooks/katas/tools/TensorManagement.ipynb)
-  - [Data Analysis](http://localhost:8888/notebooks/katas/tools/DataAnalysis.ipynb)
+  - [Tensor Management](http://localhost:8888/notebooks/katas/tools/TensorManagement.ipynb){:target="_blank"}
+  - [Data Analysis](http://localhost:8888/notebooks/katas/tools/DataAnalysis.ipynb){:target="_blank"}
 
 ## Machine Learning Workflow
 
 - 📚 Overview [ [source](https://github.com/bpesquet/website/blob/master/content/english/slides/ai/ml-fundamentals/index.md) | [slides](https://www.bpesquet.fr/en/slides/ai/ml-fundamentals/) ]
 - ▶️️ Demos
-  - Data Preprocessing [ [scikit-learn](http://localhost:8888/notebooks/demos/workflow/DataPreprocessing.ipynb) ]
-  - Performance Evaluation [ [scikit-learn](http://localhost:8888/notebooks/demos/workflow/PerformanceEvaluation.ipynb) ]
+  - Data Preprocessing [ [scikit-learn](http://localhost:8888/notebooks/demos/workflow/DataPreprocessing.ipynb){:target="_blank"} ]
+  - Performance Evaluation [ [scikit-learn](http://localhost:8888/notebooks/demos/workflow/PerformanceEvaluation.ipynb){:target="_blank"} ]
 - ⛩ Katas
-  - [Code Preprocessing Functions From Scratch](http://localhost:8888/notebooks/katas/workflow/PreprocessingFunctions.ipynb)
-  - [Code Classification Metrics From Scratch](http://localhost:8888/notebooks/katas/workflow/ClassificationMetrics.ipynb)
+  - [Code Preprocessing Functions From Scratch](http://localhost:8888/notebooks/katas/workflow/PreprocessingFunctions.ipynb){:target="_blank"}
+  - [Code Classification Metrics From Scratch](http://localhost:8888/notebooks/katas/workflow/ClassificationMetrics.ipynb){:target="_blank"}
 
 ## Machine Learning Algorithms
 
@@ -38,10 +38,10 @@ Alternatively, you may clone or download this repository and run a Jupyter noteb
 
 - 📚 Overview [ [source](https://github.com/bpesquet/website/blob/master/content/english/slides/ai/k-nearest-neighbors/index.md) | [slides](https://www.bpesquet.fr/en/slides/ai/k-nearest-neighbors/) ]
 - ▶️️ Demos
-  - Classify Planar Data [ [scikit-learn](http://localhost:8888/notebooks/demos/algorithms/KNN_PlanarData.ipynb) ]
-  - Classify Fruits [ [scikit-learn](http://localhost:8888/notebooks/demos/algorithms/KNN_Fruits.ipynb) ]
+  - Classify Planar Data [ [scikit-learn](http://localhost:8888/notebooks/demos/algorithms/KNN_PlanarData.ipynb){:target="_blank"} ]
+  - Classify Fruits [ [scikit-learn](http://localhost:8888/notebooks/demos/algorithms/KNN_Fruits.ipynb){:target="_blank"} ]
 - ⛩ Katas
-  - [Diagnose Breast Tumors](http://localhost:8888/notebooks/katas/algorithms/KNN_BreastCancer.ipynb)
-  - [Code K-NN From Scratch](http://localhost:8888/notebooks/katas/algorithms/KNN_Scratch.ipynb)
+  - [Diagnose Breast Tumors](http://localhost:8888/notebooks/katas/algorithms/KNN_BreastCancer.ipynb){:target="_blank"}
+  - [Code K-NN From Scratch](http://localhost:8888/notebooks/katas/algorithms/KNN_Scratch.ipynb){:target="_blank"}
 
 (More to come)
